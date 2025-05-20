@@ -1,1 +1,1 @@
-Mini_Project_OTT_Streaming_Platform
+OTT_Streaming_Platform
